@@ -2,6 +2,8 @@
 
 This project takes stats from every running back in the 2020 NFL season.
 
+Answers the question: which stat holds the most importance for a running back to get the most points in fantasy football?
+
 Using three different models (LinearRegression, RandomForestRegressor, GradientBoostingRegressor) to predict which statistics hold the most importance for the running back's fantasy point total for that season.
 
 Before transforming the data, one model resulted in containing the best mean absolute error.
